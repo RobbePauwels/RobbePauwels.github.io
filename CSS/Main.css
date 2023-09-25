@@ -1,0 +1,29 @@
+HTML{
+    font-family: sans-serif;
+    background-color: black;
+    
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    margin-left:170px;
+}
+h1{
+    color:red;
+    margin-left: 160px;
+    
+}
+
+h2,h3{
+    color: red;
+    margin-left: 160px;
+}
+
+a{
+    color: red;
+    margin-left: 160px;
+}
+
